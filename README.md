@@ -21,9 +21,13 @@ My portfolio is a whole operating system that runs in the browser. You log in, o
 | --- | --- |
 | ![App menu](screenshots/menu.png) | ![Activities overview](screenshots/overview.png) |
 
-| Login | Desktop |
+| Loading screen | Login |
 | --- | --- |
-| ![Login screen](screenshots/login.png) | ![Desktop](screenshots/desktop.png) |
+| ![Loading screen with code rain](screenshots/loading.png) | ![Login screen with the intro terminal](screenshots/login.png) |
+
+| About Me |
+| --- |
+| ![About Me window](screenshots/about.png) |
 
 It also works on phones:
 
